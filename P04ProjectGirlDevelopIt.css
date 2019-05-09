@@ -1,0 +1,28 @@
+* Olivia Bocchetti
+* Due Date 
+* P04 Project Girl Develop It
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+
+#GirlswithLaptop { float: right;}
+#NotBoyfriendPC { float: right;}
+
+header{background-color: hotpink;text-align: center;}
+/* Body properties here */ 
+body {background-color: floralwhite;}
+
+a:link{
+background: color: pink;
+    color:dodgerblue;}
+ 
+a:hover, a:focus {
+background-color: dodgerblue;
+    color:yellow;}
+
+
